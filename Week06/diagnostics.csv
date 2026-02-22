@@ -1,0 +1,4 @@
+2026-02-22 16:13:43,ping,Lando,N/A,Failed
+2026-02-22 16:14:04,ping,google.com,3,Success
+2026-02-22 16:14:24,nslookup,github.com,Not found,Failed
+2026-02-22 16:17:02,arp,local,6 devices,Captured
